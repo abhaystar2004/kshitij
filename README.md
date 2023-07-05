@@ -2,4 +2,4 @@
 
 Website best viewed on desktop.
 
-![Website](https://abhaystar2004.github.io/kshitij/)
+[Book Shop Website](https://abhaystar2004.github.io/kshitij/)
